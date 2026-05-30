@@ -1,0 +1,65 @@
+.box{
+    height: 50px; 
+     /* width: 40px;  */
+     /* margin: 56px;  */
+     /* align-items: center; */
+     /* padding: 100rem;  */
+            
+}
+
+
+.calc{
+
+   
+    text-align: center;
+    
+}
+
+
+/* screen */
+.screen{
+    width: 205px;
+    height: 70px;
+    text-align: right;
+}
+
+
+
+
+/* backgound color */
+.background{
+    background: linear-gradient(45deg, #3a4452);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    /* padding: 5rem; */
+    
+}
+
+
+/* buttons excluding (=) */
+.btn{
+    padding: 1rem; 
+    width: 50px;  
+    height: 50px;
+    
+}
+.btn:hover{
+    background-color: blue;
+    color :rgb(7, 7, 7);
+}
+
+
+/* (=) button */
+.btnSpecial{
+    padding: 1rem;  
+    width: 157px;
+    height: 50px;
+}
+.btnSpecial:hover{
+    background-color: rgb(5, 5, 21);
+    color :rgb(54, 11, 226);
+}
+
+
