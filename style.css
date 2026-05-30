@@ -9,10 +9,12 @@
 
 
 .calc{
-
-   
+     border: 1px solid rgb(55, 52, 52) ;
     text-align: center;
-    
+    padding: 20px ;
+    border-radius:  27px; 
+    background: transparent;
+    box-shadow: 0px 3px 15px rgb(171, 175, 221);    
 }
 
 
